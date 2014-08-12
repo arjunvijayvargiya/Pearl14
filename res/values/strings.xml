@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps123</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="about_text">Pearl, is the Annual Cultural Festival of the Birla Institute of Technology and Science Pilani, Hyderabad Campus. Following the immense popularity of the festival over the previous years, Pearl 14 aspires to venture into new avenues by playing host to a wide range of cultural extravaganza!!
+</string>
+	<string name="title_send_feedback">Send feedback</string>
+ 
+    <string name="mail_feedback_email">kostaja.techworld@gmail.com</string>
+    <string name="mail_feedback_subject">Feedback on your app</string>
+    <string name="mail_feedback_message">" "</string>
+</resources>

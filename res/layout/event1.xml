@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+    
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000" >
+    
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:orientation="horizontal"
+            android:background="#D1D0CE"
+            >
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/pblue" />
+
+            
+            
+        </LinearLayout>
+        
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+            android:background="#D1D0CE"
+            />
+         
+         
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="WolFMother"
+                android:textSize="30dp"
+                android:textColor="#00ffff" 
+                android:paddingLeft="70dp"
+                />
+            
+            <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="10dip" 
+            />
+            
+            <TextView 
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:padding="2dp"/>
+        </LinearLayout>
+        
+        
+        </LinearLayout>
+        </ScrollView>
